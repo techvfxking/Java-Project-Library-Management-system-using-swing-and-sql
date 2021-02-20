@@ -1,5 +1,4 @@
 # Java Project Library Management system using swing and SQL
-Objective/ Vision
 A library management software where admin can add/view/delete librarian and librarian can add/view books, issue, view issued books and return books.
 
 Users of the System
