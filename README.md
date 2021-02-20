@@ -14,8 +14,8 @@ Can add/view books
 Can issue books
 View issued books
 Return Books
-Can logout
-Tools to be used
+Can logout.
+#Tools to be used
 Use any IDE to develop the project. It may be Eclipse /Myeclipse / Netbeans etc.
 MySQL for the database.
 Front End and Back End
