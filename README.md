@@ -2,8 +2,13 @@
 A library management software where admin can add/view/delete librarian and librarian can add/view books, issue, view issued books and return books.
 
 Users of the System
+
 Admin
+
+and
+
 Libraian
+
 Functional Requirements
 1. Admin
 Can add/view/delete librarian
